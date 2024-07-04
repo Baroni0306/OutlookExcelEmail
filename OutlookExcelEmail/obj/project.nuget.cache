@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1YDSTh7W+adduh8ACZ+sHhOMeGqhdMlckWI4FOoFJG+A3PNoxdZnNMHCfh90WpUOCv8mmaLmypbL121WFp7uNg==",
+  "success": true,
+  "projectFilePath": "D:\\OutlookExcelEmail\\OutlookExcelEmail\\OutlookExcelEmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phw84\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\phw84\\.nuget\\packages\\microsoft.office.interop.outlook\\15.0.4797.1004\\microsoft.office.interop.outlook.15.0.4797.1004.nupkg.sha512",
+    "C:\\Users\\phw84\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1004\\microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512"
+  ],
+  "logs": []
+}
